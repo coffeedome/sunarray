@@ -1,3 +1,4 @@
+mod dishwasher_api;
 mod send_instructions;
 
 fn main() {

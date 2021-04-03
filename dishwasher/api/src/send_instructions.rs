@@ -1,4 +1,8 @@
-pub fn send_instructions(device_id: u32, task_name: &str, task_instruction_keyword: &str) -> String {
+pub fn send_instructions(
+    device_id: u32,
+    task_name: &str,
+    task_instruction_keyword: &str,
+) -> String {
     let result = format!(
         "Device Id: {}, Task Name: {}, Task Instruction Keyword: {}",
         device_id, task_name, task_instruction_keyword

@@ -38,3 +38,9 @@ Gateway to full stack of microservices
 5) First product: an automated dishwashing system.
 
 
+-----
+Cheat sheets:
+Building the API:
+https://blog.logrocket.com/creating-a-rest-api-in-rust-with-warp/
+
+
